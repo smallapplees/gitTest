@@ -4,5 +4,6 @@ int main(){
     std::cout()<<" my little 赵小姐 ~";
     std::cout()<<" hello~";
     std::cont()<<"how is today";
+    std::cout()<<"one on one";
     return 0;
 }
