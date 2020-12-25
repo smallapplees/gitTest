@@ -6,6 +6,10 @@ int main(){
     std::cont()<<"how is today";
     std::cout()<<"one on one";
     std::cout()<<"keep foolish";
+<<<<<<< HEAD
     std::cout()<<"keekp healthy:";
+=======
+    std::cout()<<"keep hungry";
+>>>>>>> Damon
     return 0;
 }
