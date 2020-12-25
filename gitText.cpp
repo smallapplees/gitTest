@@ -6,5 +6,6 @@ int main(){
     std::cont()<<"how is today";
     std::cout()<<"one on one";
     std::cout()<<"keep foolish";
+    std::cout()<<"keekp healthy:";
     return 0;
 }
